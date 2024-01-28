@@ -57,4 +57,4 @@ const neve = {
 
 users[0].common.push(kat, neve);
 
-console.log(users[0].common[4].name);
+console.log();
